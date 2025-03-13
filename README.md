@@ -5,4 +5,5 @@ Title: Salary Prediction Based on Experience using Linear Regression
 Group Members:
 1. Pawan Bhandari - 45
 2. Nishrit Baral - 42
-3. Pranjal Bhatt - 48
+3. Bikalpa Dhungana - 22
+4. Pranjal Bhatt - 48
